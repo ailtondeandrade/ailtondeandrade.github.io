@@ -10051,7 +10051,7 @@ exports.ViewHistory = ViewHistory;
 "use strict";
 
 
-var DEFAULT_URL = 'https://expirebox.com/files/21684b73aae8310d7ef648ea5abf82f5.pdf';
+var DEFAULT_URL = 'ailtondeandrade.pdf';
 ;
 var pdfjsWebApp = void 0;
 {
